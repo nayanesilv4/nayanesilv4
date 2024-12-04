@@ -61,7 +61,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/nayanesilv4/nayanesilv4/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/nayanesilv4/nayanesilv4/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
