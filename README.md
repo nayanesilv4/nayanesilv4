@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Desenvolvedora Backend | Tecnóloga em Análise e Desenvolvimento de Sistemas</p>
+*<p align="center">Desenvolvedora Backend | Tecnóloga em Análise e Desenvolvimento de Sistemas</p>*
 
 ###
 
