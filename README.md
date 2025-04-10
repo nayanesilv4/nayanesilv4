@@ -1,63 +1,52 @@
-<h3 align="left">Hey there! What´s up?</h3>
+<h2 align="center">🌷| Bem-vindo(a) ao meu GitHub!</h2>
 
 ###
 
-<h4 align="left">My name´s Nayane!</h4>
+<p align="center">Desenvolvedora Backend | Tecnóloga em Análise e Desenvolvimento de Sistemas</p>
 
 ###
 
-<p align="left">💻​ Java Back-end Developer<br><br>💼​ Freelance Developer</p>
+<h4 align="left">💗| Sobre Mim</h4>
 
 ###
 
-<h3 align="left">About</h3>
+<p align="left">Me chamo **Nayane** e sou uma desenvolvedora apaixonada por tecnologia e aprendizado contínuo. Sou formada em **Análise e Desenvolvimento de Sistemas** e aplico meus conhecimentos em projetos back-end que unem teoria, prática e propósito.<br><br>✨ Sou comunicativa, proativa e estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa.<br><br>Aqui você encontrará um pouco do meu trabalho, ideias e projetos desenvolvidos com dedicação e vontade de evoluir sempre. 🚀</p>
 
 ###
-
-<p align="left">I´m a Java developer passionate about the IT area and solving problems.<br><br>I have experience in the following technologies:<br><br>* Java<br>* SpringBoot<br>* Python<br>* Django<br>* HTML<br>* CSS<br>* JavaScript<br>* MySQL<br>* Rest APIs<br>* GIT<br><br><br>I´m able to solve problems and develop smart solutions through high-quality codes and using the most modern tools on the market. I have experience in developing following S.O.L.I.D, Clean Architecture and Clean Code.<br><br>I love challenges and I want to grow professionally every single day.</p>
-
-###
-
-<h3 align="left">Contact:</h3>
-
-###
-
-<br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nayane-costa-37ab242b8/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/nayanecosta/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <a href="https://wa.me/5581993571275" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.instagram.com/nay.silv4/profilecard/?igsh=dXhiYTJjdW5hbW0=" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  <a href="mailto:nayanecosilva@gmail.com?subject=&body=" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div align="left">
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayanesilv4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nayanesilv4/nayanesilv4/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nayanesilv4/nayanesilv4/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nayanesilv4/nayanesilv4/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<p align="left">Se meus repositórios te despertaram algum interesse, fique a vontade para me contactar.</p>
+
+###
+
+<h4 align="left">🌷| Obrigada pela visita!</h4>
 
 ###
 
