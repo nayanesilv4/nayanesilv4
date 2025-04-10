@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Me chamo **Nayane** e sou uma desenvolvedora apaixonada por tecnologia e aprendizado contínuo. Sou formada em **Análise e Desenvolvimento de Sistemas** e aplico meus conhecimentos em projetos back-end que unem teoria, prática e propósito.<br><br>✨ Sou comunicativa, proativa e estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa.<br><br>Aqui você encontrará um pouco do meu trabalho, ideias e projetos desenvolvidos com dedicação e vontade de evoluir sempre. 🚀</p>
+<p align="left">Me chamo Nayane e sou uma desenvolvedora apaixonada por tecnologia e aprendizado contínuo. Sou formada em Análise e Desenvolvimento de Sistemas e aplico meus conhecimentos em projetos back-end que unem teoria, prática e propósito.<br><br>✨ Sou comunicativa, proativa e estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis e me façam crescer como profissional e pessoa.<br><br>Aqui você encontrará um pouco do meu trabalho, ideias e projetos desenvolvidos com dedicação e vontade de evoluir sempre. 🚀</p>
 
 ###
 
